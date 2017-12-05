@@ -1,0 +1,1 @@
+include ':example', ':lib-annotations', ':lib-compiler', ':lib-core', ':lib-ec'
